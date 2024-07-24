@@ -2,7 +2,9 @@
   <img src="assets/images/README_cover.png" width="350" align="center"/>
 </p><br>
 
-> **`Project Abandoned`**. This project has been abandoned and might be out of date with current standards and with respect to security and features etc.. I may revamp this project in the future but there is no further development planned at the moment.
+
+
+> **`Project Upgraded to PHP8.2`**. I forked https://github.com/msaad1999/PHP-Login-System because his development was stopped with PHP 7.3. His code was exactly what I was looking for, so I adapted it for PHP 8.2.
 
 > Embeddable and Highly Secure PHP Authentication System with Login, Signup, User Profiles, Profile Editing, Account Verification via Email, Password Reset System, Remember Me Feature, Automatic Logout on Inactivity,  Global ERROR & STATUS variable system, Authentication checks and more.
 
