@@ -128,7 +128,8 @@ Additional plugins or offline resources can be placed in the `assets/vendor/` fo
 ### Development Environment
 
 - Apache-2.4.57-140 ( On NAS Synology state jully 2024 )
-- 
+- synology_geminilake_224+ DSM 7.2.1-69057 Update 5
+- synology_geminilake_224+ GNU/Linux 4.4.302+ #69057 x86_64 
 
 ### External Resources/Plugins
 
