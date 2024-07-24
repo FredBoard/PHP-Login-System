@@ -4,7 +4,7 @@
 
 
 
-> **`Project Upgraded to PHP8.2`**. I forked https://github.com/msaad1999/PHP-Login-System because his development was stopped with PHP 7.3. His code was exactly what I was looking for, so I adapted it for PHP 8.2.
+> **`Project Upgraded to PHP8.2`**  I forked https://github.com/msaad1999/PHP-Login-System because his development was stopped with PHP 7.3. His code was exactly what I was looking for, so I adapted it for PHP 8.2.
 
 > Embeddable and Highly Secure PHP Authentication System with Login, Signup, User Profiles, Profile Editing, Account Verification via Email, Password Reset System, Remember Me Feature, Automatic Logout on Inactivity,  Global ERROR & STATUS variable system, Authentication checks and more.
 
@@ -87,8 +87,8 @@ The database already contains a sample account to test things out with. Use that
 ```php
 // credentials for existing account
 
-username: supahot
-password: aaaaaa
+username: supahot82
+password: aaaaaa82
 ```
 
 ### Project File Structure
@@ -120,15 +120,15 @@ Additional plugins or offline resources can be placed in the `assets/vendor/` fo
 
 ### Languages
 
-- PHP-7.3.11
+- PHP-8.2 ( On NAS Synology state jully 2024 )
 - MySQLi API
 - HTML5
 - CSS3
 
 ### Development Environment
 
-- Apache-2.4.41 
-- Windows 10
+- Apache-2.4.57-140 ( On NAS Synology state jully 2024 )
+- 
 
 ### External Resources/Plugins
 
